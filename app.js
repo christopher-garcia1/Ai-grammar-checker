@@ -34,7 +34,7 @@ app.post("/correct", async (req, res) => {
         Authorization: `Bearer ${process.env.OPENAI_KEY}`,
       },
       body: JSON.stringify({
-        model: "gpt-3.5-turbo",
+        model: "gpt-4o-mini",
         messages: [
           {
             role: "system",
