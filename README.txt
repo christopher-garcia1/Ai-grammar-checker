@@ -50,6 +50,3 @@ Contributions are welcome! To contribute:
 
 Please ensure that your contributions align with the project's coding standards and include appropriate tests.
 
-License
--------
-This project is licensed under the MIT License - see the LICENSE file for details.
